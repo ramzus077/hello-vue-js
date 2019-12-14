@@ -10,6 +10,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@storybook/addon-knobs": "^5.2.8",
     "core-js": "^3.4.3",
     "vue": "^2.6.10"
   },
@@ -27,6 +28,9 @@
     "babel-preset-vue": "^2.0.2",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "storybook-addon-vue-info": "^1.4.0",
+    "vue-docgen-api": "^4.2.0",
+    "vue-docgen-loader": "^1.2.0",
     "vue-loader": "^15.7.2",
     "vue-template-compiler": "^2.6.10"
   },
