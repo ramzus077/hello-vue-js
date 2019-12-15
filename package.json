@@ -39,6 +39,7 @@
     "jest": "^24.9.0",
     "jest-vue-preprocessor": "^1.7.0",
     "storybook-addon-vue-info": "^1.4.0",
+    "storybook-dark-mode": "^0.2.0",
     "vue-docgen-api": "^4.2.0",
     "vue-docgen-loader": "^1.2.0",
     "vue-jest": "^3.0.5",
