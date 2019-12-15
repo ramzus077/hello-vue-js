@@ -20,3 +20,11 @@ npm run build
 npm run lint
 ```
 
+### Run StroyBook
+```
+npm run storybook
+```
+### Execute Tests
+```
+npm run test
+```
