@@ -43,7 +43,8 @@
     "vue-docgen-loader": "^1.2.0",
     "vue-jest": "^3.0.5",
     "vue-loader": "^15.7.2",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.41.2"
   },
   "eslintConfig": {
     "root": true,
